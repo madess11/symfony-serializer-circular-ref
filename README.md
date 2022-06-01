@@ -1,0 +1,1 @@
+# symfony-serializer-circular-ref
